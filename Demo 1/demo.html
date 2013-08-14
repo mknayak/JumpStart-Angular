@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyApp" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body class="container" ng-controller="HomeCtrl">
+    <header>
+        <nav class="navbar row">
+            <div class="navbar-inner">
+                <span class="brand"><a href="/">E-Library</a></span>
+                <ul class="nav">
+                    <li><a href="#/home">Home</a></li>
+                    <li class="divider-vertical"></li>
+                    <li><a href="#/about">About</a></li>
+                </ul>
+                <ul class="nav pull-right">
+                    <li class="brand">JUMPSTART</li>
+                    <li class="divider-vertical"></li>
+                    <li><a href="#/login"><i class="icon-user"></i>MyAcount</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <section class="row">
+        <div class="span2 well well-small">
+            <ul class="nav nav-list">
+                <li class="nav-header">TASKS</li>
+                <li><a href="#">Demo 1</a></li>
+            </ul>
+        </div>
+        <div class="span9 well">
+            <h3>Welcome to Angular</h3>
+            calculate 3 + 4 = {{3+4 | currency}}
+            <br />
+            <br />
+            <p class="lead muted">
+                If you can see the result for previous operation, then angular environment is set up and running.
+            </p>
+        </div>
+    </section>
+<!--    <p>
+        <a href="#/srcHtml" ng-click="display()">Show Code</a> 
+    </p>
+    <section class="row" ng-show="show">
+        <ul class="nav nav-tabs">
+            <li class="active">
+                <a href="#/srcHtml">HTML</a>        
+                </li>
+            <li>
+                <a>JS</a>
+            </li>
+            </ul>
+        <pre ng-view>
+            
+        </pre>
+        
+    </section>-->
+    <footer>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="/Scripts/jquery-2.0.3.js"></script>
+    <script src="/Scripts/angular.js"></script>
+    <script src="/Scripts/bootstrap.js"></script>
+    <script src="../../Scripts/jumpstart/homeCtrl.js"></script>
+</body>
+</html>
