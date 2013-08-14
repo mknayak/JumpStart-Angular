@@ -1,9 +1,13 @@
 ﻿/// <reference path="../angular.js" />
 var myApp = angular.module("MyApp", []).config([
     '$routeProvider', function ($routeProvider) {
-
-        $routeProvider.when('/srcHtml', {templateUrl:'src/html.html'})
-
+        $routeProvider.
+            when('/demo1', { templateUrl: 'Demo1/demo.html' }).
+            when('/demo2', { templateUrl: 'Demo2/demo.html', controller: calcCtrl }).
+            when('/demo3', { templateUrl: 'Demo3/demo.html', controller: BookLibCtrl }).
+            when('/demo4', { templateUrl: 'Demo4/demo.html', controller: BookLibCtrl }).
+            when('/demo5', { templateUrl: 'Demo5/demo.html', controller: calcCtrl }).
+            otherwise({ redirectTo: '/demo1' })
 
     }]);
 

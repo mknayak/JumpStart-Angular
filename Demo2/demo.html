@@ -1,0 +1,32 @@
+﻿<style>
+    .calc ul li {
+        display: inline-block;
+    }
+
+    .num {
+        height: 50px;
+        width: 50px;
+        margin-bottom: 10px;
+    }
+</style>
+<input class="span6" type="text" ng-model="displayText" />
+<span class="span4">
+    <ul class="unstyled">
+        <li class="span1" ng-repeat="num in numbers">
+            <button class="btn num" ng-click="input(num)">{{num}}</button></li>
+        <li class="span1">
+            <button class="btn num" ng-click="clear()">C</button></li>
+        <li class="span1">
+            <button class="btn num" ng-click="evaluate()">=</button></li>
+    </ul>
+</span>
+<span class="span2">
+    <ul class="unstyled">
+        <li class="span1" ng-repeat="op in operations">
+            <button class="btn num" ng-click="op.evaluate()">{{op.op}}</button>
+        </li>
+    </ul>
+</span>
+<span class="span2"></span>
+
+

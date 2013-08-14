@@ -1,0 +1,21 @@
+﻿<style>
+    .colName {
+        cursor:pointer;
+    }
+</style>
+<table class=" table table-striped">
+    <thead>
+        <tr>
+            <th><a class="colName" ng-click="updateOrderBy('name')">Name</a> </th>
+            <th><a class="colName" ng-click="updateOrderBy('auther')">Auther</a> </th>
+            <th><a class="colName" ng-click="updateOrderBy('price')">Price(INR)</a> </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="book in bookList|orderBy:orderProp:reverse">
+            <td>{{book.name}}</td>
+            <td>{{book.auther}}</td>
+            <td>{{book.price}}</td>
+        </tr>
+    </tbody>
+</table>

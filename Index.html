@@ -1,31 +1,53 @@
 ﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html ng-app="MyApp" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
 </head>
-<body>
-    <ol>
-        <li>
-            <a href="Demo 1/demo.html" target="_blank">Demo1</a>
-        </li>
-        <li>
-            <a href="Demo 2/demo.html" target="_blank">Demo2</a>
-        </li>
-        <li>
-            <a href="Demo 3/demo.html" target="_blank">Demo3</a>
-        </li>
-        <li>
-            <a href="Demo 4/demo.html" target="_blank">Demo4</a>
-        </li>
-        <li>
-            <a href="Demo 5/demo.html" target="_blank">Demo5</a>
-        </li>
-        <li>
-            <a href="Demo 6/demo.html" target="_blank">Demo6</a>
-        </li>
-        <li>
-            <a href="Demo 7/demo.html" target="_blank">Demo7</a>
-        </li>
-    </ol>
+<body class="container">
+    <header>
+        <nav class="navbar row">
+            <div class="navbar-inner">
+                <span class="brand"><a href="#">JUMPSTART</a></span>
+                <ul class="nav">
+                    <li><a href="#/home">Home</a></li>
+                    <li class="divider-vertical"></li>
+                    <li><a href="#/about">About</a></li>
+                </ul>
+                <ul class="nav pull-right">
+                    <li class="brand">ANGULAR</li>
+                    <li class="divider-vertical"></li>
+                    <li><a href="#/login"><i class="icon-user"></i>MyAcount</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <section class="row">
+        <div class="span2 well well-small">
+            <ul class="nav nav-list">
+                <li class="nav-header">DEMOS</li>
+                <li><a href="#/demo1">Demo1</a></li>
+                <li><a href="#/demo2">Demo2</a></li>
+                <li><a href="#/demo3">Demo3</a></li>
+                <li><a href="#/demo4">Demo4</a></li>
+                <li><a href="#/demo5">Demo5</a></li>
+            </ul>
+        </div>
+        <div class="span9 well">
+            <div ng-view></div>
+        </div>
+
+    </section>
+    <footer>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="Scripts/jquery-2.0.3.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/jumpstart/calcCtrl.js"></script>
+    <script src="Scripts/jumpstart/demosCtrl.js"></script>
+    <script src="Scripts/jumpstart/homeCtrl.js"></script>
+    
 </body>
 </html>
