@@ -4,9 +4,9 @@ var myApp = angular.module("MyApp", []).config([
         $routeProvider.
             when('/demo1', { templateUrl: 'Demo1/demo.html' }).
             when('/demo2', { templateUrl: 'Demo2/demo.html', controller: calcCtrl }).
-            when('/demo3', { templateUrl: 'Demo3/demo.html', controller: BookLibCtrl }).
-            when('/demo4', { templateUrl: 'Demo4/demo.html', controller: BookLibCtrl }).
-            when('/demo5', { templateUrl: 'Demo5/demo.html', controller: calcCtrl }).
+            when('/demo3', { templateUrl: 'Demo3/demo.html', controller: BookLibCtrl_Demo4 }).
+            when('/demo4', { templateUrl: 'Demo4/demo.html', controller: BookLibCtrl_Demo4 }).
+            when('/demo5', { templateUrl: 'Demo5/demo.html', controller: BookLibCtrl_Demo5 }).
             otherwise({ redirectTo: '/demo1' })
 
     }]);

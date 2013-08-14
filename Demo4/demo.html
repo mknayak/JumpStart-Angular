@@ -3,6 +3,11 @@
         cursor:pointer;
     }
 </style>
+
+<div class="form-horizontal">
+    Filter : <input type="text" ng-model="hello" placeholder="filter by string" />
+</div>
+<hr />
 <table class=" table table-striped">
     <thead>
         <tr>
@@ -12,7 +17,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr ng-repeat="book in bookList|orderBy:orderProp:reverse">
+        <tr ng-repeat="book in bookList|filter:hello|orderBy:orderProp:reverse">
             <td>{{book.name}}</td>
             <td>{{book.auther}}</td>
             <td>{{book.price}}</td>
