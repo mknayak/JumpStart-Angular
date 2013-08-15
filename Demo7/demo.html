@@ -6,7 +6,7 @@
 <div class="form-horizontal">
     <div class="control-group">
         <a class="btn btn-info" ng-click="loadBooks()">Load Books</a>
-        <a class="btn btn-warning"  data-toggle="modal" data-target="#hiddenBookAdd">Add Book</a>
+        <a class="btn btn-warning" data-toggle="modal" data-target="#hiddenBookAdd">Add Book</a>
     </div>
     <div class="control-group">
         Filter :
@@ -32,7 +32,7 @@
     </tbody>
 </table>
 
-<form class="form-horizontal modal hide fade" id="hiddenBookAdd">
+<form class="form-horizontal modal hide fade" id="hiddenBookAdd" name="addBook">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
         <h3 id="myModalLabel">Add a new book</h3>
@@ -41,25 +41,28 @@
         <div class="control-group">
             <label class="control-label">Book Name</label>
             <div class="controls">
-                <input type="text" ng-model="book.name" />
+                <input type="text" name="bName" ng-model="book.name" required />
+                <div ng-show="addBook.bName.$dirty && addBook.bName.$invalid" class="text-error">
+                    <span ng-show="addBook.bName.$error.required">Enter book name</span>
+                </div>
             </div>
         </div>
         <div class="control-group">
             <label class="control-label">Auther</label>
             <div class="controls">
-                <input type="text" ng-model="book.auther" />
+                <input type="text" name="bAuther" ng-model="book.auther" required />
             </div>
         </div>
         <div class="control-group">
             <label class="control-label">Price</label>
             <div class="controls">
-                <input type="number" ng-model="book.price" />
+                <input type="number" name="bPrice" ng-model="book.price" required />
             </div>
         </div>
         <div class="control-group">
             <div class="controls">
                 <a class="btn" data-dismiss="modal" aria-hidden="true">Cancel</a>
-                <a class="btn btn-warning" ng-click="addBooks()">Add Book</a>
+                <button class="btn btn-warning" ng-disabled="addBook.$invalid" ng-click="addBooks()">Add Book</button>
             </div>
         </div>
     </div>

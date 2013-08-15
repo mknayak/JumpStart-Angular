@@ -3,6 +3,7 @@
 <head>
     <title></title>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap-responsive.min.css" rel="stylesheet" />
 </head>
 <body class="container">
     <header>
@@ -23,17 +24,28 @@
         </nav>
     </header>
     <section class="row">
-        <div class="span2 well well-small">
+        <div class="span3 well well-small">
             <ul class="nav nav-list">
                 <li class="nav-header">DEMOS</li>
-                <li><a href="#/demo1">Demo1</a></li>
-                <li><a href="#/demo2">Demo2</a></li>
-                <li><a href="#/demo3">Demo3</a></li>
-                <li><a href="#/demo4">Demo4</a></li>
-                <li><a href="#/demo5">Demo5</a></li>
+                <li><a href="#/demo1">Demo1</a><small>BootStrap Angular</small></li>
+                <li class="divider"></li>
+                <li><a href="#/demo2">Demo2</a><small>Angular Calculator</small></li>
+                <li class="divider"></li>
+                <li><a href="#/demo3">Demo3</a><small>ELibrary Start</small></li>
+                <li class="divider"></li>
+                <li><a href="#/demo4">Demo4</a><small>ELibrary Filter Books</small></li>
+                <li class="divider"></li>
+                <li><a href="#/demo5">Demo5</a><small>ELibrary Load Books</small></li>
+                <li class="divider"></li>
+                <li><a href="#/demo6">Demo6</a><small>ELibrary Add New Book</small></li>
+                <li class="divider"></li>
+                <li><a href="#/demo7">Demo7</a><small>ELibrary Add Book Validation</small></li>
+                <li class="divider"></li>
+                <li><a href="#/demo8">Demo8</a><small>ELibrary Routing</small></li>
+                <li class="divider"></li>
             </ul>
         </div>
-        <div class="span9 well">
+        <div class="span8 well">
             <div ng-view></div>
         </div>
 
@@ -43,6 +55,7 @@
 
     <!-- Scripts -->
     <script src="Scripts/jquery-2.0.3.js"></script>
+    <script src="Scripts/underscore-min.js"></script>
     <script src="Scripts/angular.js"></script>
     <script src="Scripts/bootstrap.js"></script>
     <script src="Scripts/jumpstart/calcCtrl.js"></script>

@@ -1,4 +1,7 @@
-﻿function BookLibCtrl_Demo4($scope) {
+﻿/// <reference path="../jquery-2.0.3.min.js" />
+/// <reference path="../underscore-min.js" />
+
+function BookLibCtrl_Demo4($scope) {
     $scope.bookList = [
 { 'name': 'Beginning Android 4 Application Development', 'auther': 'Wei-Meng Lee', 'price': 479 },
 { 'name': 'Beginning iOS 5: Application Development', 'auther': 'Wei-Meng Lee', 'price': 418 },
@@ -35,4 +38,35 @@ function BookLibCtrl_Demo5($scope, $http) {
         $scope.reverse = !$scope.reverse;
     }
 
+};
+
+function Book() {
+    var self = this;
+    self.auther;
+    self.name;
+    self.price = 0;
+}
+
+function BookLibCtrl_Demo6($scope, $http) {
+    $scope.bookList = new Array();
+    $scope.book = new Book();
+    $scope.orderProp = '';
+    $scope.loadBooks = function () {
+        $http.get("Scripts/jumpstart/bookList.json").success(
+            function (data) {
+                $scope.bookList =_.union($scope.bookList, data);
+            }
+            );
+    }
+    $scope.reverse = true;
+    $scope.updateOrderBy = function (orderby) {
+        $scope.orderProp = orderby;
+        $scope.reverse = !$scope.reverse;
+    }
+    $scope.addBooks = function () {
+        var nb2 = _.clone($scope.book);
+        $scope.bookList.push(nb2);
+        $scope.book = new Book();//Reset
+        $('#hiddenBookAdd').modal('hide');
+    }
 };
