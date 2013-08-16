@@ -4,6 +4,9 @@
     <title></title>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/bootstrap-responsive.min.css" rel="stylesheet" />
+    <style>
+       
+    </style>
 </head>
 <body class="container">
     <header>
@@ -16,41 +19,50 @@
                     <li><a href="#/about">About</a></li>
                 </ul>
                 <ul class="nav pull-right">
-                    <li class="brand">ANGULAR</li>
+                    <li class="brand">ANGULAR for Begineers</li>
                     <li class="divider-vertical"></li>
-                    <li><a href="#/login"><i class="icon-user"></i>MyAcount</a></li>
+                    <li><a href="https://github.com/mknayak/JumpStart-Angular"><i class="icon-globe"></i>github</a></li>
+                    <li class="divider-vertical"></li>
+                    <li><a href="https://github.com/mknayak/JumpStart-Angular/zipball/master"><i class="icon-download-alt"></i>zip</a></li>
+                    <li><a href="https://github.com/mknayak/JumpStart-Angular/tarball/master"><i class="icon-download-alt"></i>tar</a></li>
                 </ul>
             </div>
         </nav>
     </header>
     <section class="row">
-        <div class="span3 well well-small">
-            <ul class="nav nav-list">
-                <li class="nav-header">DEMOS</li>
-                <li><a href="#/demo1">Demo1</a><small>BootStrap Angular</small></li>
-                <li class="divider"></li>
-                <li><a href="#/demo2">Demo2</a><small>Angular Calculator</small></li>
-                <li class="divider"></li>
-                <li><a href="#/demo3">Demo3</a><small>ELibrary Start</small></li>
-                <li class="divider"></li>
-                <li><a href="#/demo4">Demo4</a><small>ELibrary Filter Books</small></li>
-                <li class="divider"></li>
-                <li><a href="#/demo5">Demo5</a><small>ELibrary Load Books</small></li>
-                <li class="divider"></li>
-                <li><a href="#/demo6">Demo6</a><small>ELibrary Add New Book</small></li>
-                <li class="divider"></li>
-                <li><a href="#/demo7">Demo7</a><small>ELibrary Add Book Validation</small></li>
-                <li class="divider"></li>
-                <li><a href="#/demo8">Demo8</a><small>ELibrary Routing</small></li>
-                <li class="divider"></li>
-            </ul>
+        <div class="span3">
+            <div class="well sidebar-nav">
+                <ul class="nav nav-list">
+                    <li class="nav-header">DEMOS</li>
+                    <li><a href="#/demo1">Demo1</a><small>BootStrap Angular</small></li>
+                    <li class="divider"></li>
+                    <li><a href="#/demo2">Demo2</a><small>Angular Calculator</small></li>
+                    <li class="divider"></li>
+                    <li><a href="#/demo3">Demo3</a><small>ELibrary Start</small></li>
+                    <li class="divider"></li>
+                    <li><a href="#/demo4">Demo4</a><small>ELibrary Filter Books</small></li>
+                    <li class="divider"></li>
+                    <li><a href="#/demo5">Demo5</a><small>ELibrary Load Books</small></li>
+                    <li class="divider"></li>
+                    <li><a href="#/demo6">Demo6</a><small>ELibrary Add New Book</small></li>
+                    <li class="divider"></li>
+                    <li><a href="#/demo7">Demo7</a><small>ELibrary Add Book Validation</small></li>
+                    <li class="divider"></li>
+                    <li><a href="#/demo8">Demo8</a><small>ELibrary Routing</small></li>
+                    <li class="divider"></li>
+                </ul>
+            </div>
         </div>
-        <div class="span8 well">
+        <div class="span8">
             <div ng-view></div>
         </div>
 
     </section>
-    <footer>
+    <hr class="text-info"/>
+    <footer class="muted">
+        <ul class="unstyled span4">
+            <li>maintained by <a href="https://github.com/mknayak">@mknayak</a></li>
+        </ul>
     </footer>
 
     <!-- Scripts -->
@@ -61,6 +73,6 @@
     <script src="Scripts/jumpstart/calcCtrl.js"></script>
     <script src="Scripts/jumpstart/demosCtrl.js"></script>
     <script src="Scripts/jumpstart/homeCtrl.js"></script>
-    
+
 </body>
 </html>
