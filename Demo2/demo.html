@@ -1,0 +1,66 @@
+﻿<style>
+    .calc ul li {
+        display: inline-block;
+    }
+
+    #calc {
+        background: none repeat scroll 0 0 #114477;
+        border-radius: 4px 4px 4px 4px;
+        padding: 10px;
+        width: 400px;
+    }
+
+        #calc .nums {
+            display: inline-block;
+            width: 320px;
+        }
+        
+
+        #calc .ops {
+            display: inline-block;
+            width: 75px;
+        }
+
+        #calc .numli {
+            display: inline-block;
+            height: 75px;
+            margin: 10px 0;
+            padding-right: 20px;
+            width: 75px;
+        }
+
+            #calc .numli .num {
+                height: 100%;
+                width: 100%;
+                font-size:2em;
+            }
+
+        #calc #calcText {
+            font-size: 30px;
+            height: 35px;
+        }
+        #calc .tbCalc {
+            width: 385px;
+            text-align:right;
+        }
+</style>
+<div id="calc">
+    <input disabled id="calcText" type="text" class="tbCalc" ng-model="displayText" />
+    <input disabled class="tbCalc" id="Text1" type="text" ng-model="expression" />
+    <span class="nums">
+        <ul class="unstyled">
+            <li class="numli" ng-repeat="num in numbers">
+                <button class="btn num" ng-click="input(num)">{{num}}</button>
+            </li><li class="numli"><button class="btn num" ng-click="clear()">C</button></li><li class="numli"><button class="btn num" ng-click="evaluate()">=</button></li>
+        </ul>
+    </span>
+    <span class="ops">
+        <ul class="unstyled">
+            <li class="numli" ng-repeat="op in operations">
+                <button class="btn num" ng-click="op.operate()">{{op.op}}</button>
+            </li>
+        </ul>
+    </span>
+</div>
+
+
