@@ -1,11 +1,42 @@
-﻿<div>
-    <h3> No Special Demo for Routing.</h3>
+﻿
+<style>
+    .colName {
+        cursor: pointer;
+    }
+</style>
 
+
+<div class="form-horizontal">
+    <div class="control-group"><a class="btn btn-info" ng-click="loadBooks()">Load Books</a></div>
+    <div class="control-group">
+        Filter :
+            <input type="text" ng-model="hello" placeholder="filter by string" />
+    </div>
+
+</div>
+<hr />
+<table class=" table table-striped">
+    <thead>
+        <tr>
+            <th><a class="colName" ng-click="updateOrderBy('name')">Name</a> </th>
+            <th><a class="colName" ng-click="updateOrderBy('auther')">Auther</a> </th>
+            <th><a class="colName" ng-click="updateOrderBy('price')">Price(INR)</a> </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="book in bookList|filter:hello|orderBy:orderProp:reverse">
+            <td><a href="#/detail/{{book.name}}">{{book.name}}</a></td>
+            <td>{{book.auther}}</td>
+            <td>{{book.price}}</td>
+        </tr>
+    </tbody>
+</table>
+
+<div>
     This complete series is built using <strong>angular routing</strong>.
 
     On click of Demos in side bar, an angular route is triggered and displays specific view in <code>ng-view</code>.
-    <p>
-        <br />
+    
         For reference look at <code><a href="Scripts/jumpstart/homeCtrl.js">homeCtrl.js</a></code>
-    </p>
+    
 </div>
