@@ -70,3 +70,16 @@ function BookLibCtrl_Demo6($scope, $http) {
         $('#hiddenBookAdd').modal('hide');
     }
 };
+function BookDetail($scope, $http,$routeParams) {
+    $scope.book = new Book();
+    var name = $routeParams.name;
+    $http.get("Scripts/jumpstart/bookList.json").success(
+            function (data) {
+                var bookList = data;
+                $scope.book = _.find(data, function (bk) {
+                    return bk.name === name;
+                });
+            }
+            );
+    
+};

@@ -10,6 +10,7 @@ var myApp = angular.module("MyApp", []).config([
             when('/demo6', { templateUrl: 'Demo6/demo.html', controller: BookLibCtrl_Demo6 }).
             when('/demo7', { templateUrl: 'Demo7/demo.html', controller: BookLibCtrl_Demo6 }).
             when('/demo8', { templateUrl: 'Demo8/demo.html', controller: BookLibCtrl_Demo6 }).
+            when('/detail/:name', { templateUrl: 'Demo8/detail.html', controller: BookDetail }).
             otherwise({ redirectTo: '/demo1' })
 
     }]);
