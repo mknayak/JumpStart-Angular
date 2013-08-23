@@ -65,6 +65,9 @@
         <ul class="unstyled span4">
             <li>maintained by <a href="https://github.com/mknayak">@mknayak</a></li>
         </ul>
+        <ul class="unstyled span4">
+            <li><span class="text-info"> <small id="cwcnt">loading</small></span></li>
+        </ul>
     </footer>
 
     <!-- Scripts -->
@@ -75,6 +78,8 @@
     <script src="Scripts/jumpstart/calcCtrl.js"></script>
     <script src="Scripts/jumpstart/demosCtrl.js"></script>
     <script src="Scripts/jumpstart/homeCtrl.js"></script>
-
+    <script>
+        var url = window.location.toString(); url = url.replace(/:/g, ""); url = url.replace(/\./g, ""); url = url.replace(/\//g, "_"); url = "http://creekworm.apphb.com/count/" + encodeURIComponent(url); $.ajax({ type: "GET", url: url, crossDomain: true, dataType: "jsonp", success: function (data) { setCounter(data) } }); function setCounter(data) { $("#cwcnt").html(data + " page views") };
+    </script>
 </body>
 </html>
