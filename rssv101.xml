@@ -1,0 +1,331 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:georss="http://www.georss.org/georss" 
+     xmlns:fh="http://purl.org/syndication/history/1.0">
+	<channel>
+		<title>McKinsey &amp; Company: Insights and Publications</title>
+		<link>http://www.mckinsey.com/insights/</link>
+		<description>Your source for articles published by McKinsey &amp; Company </description>
+		<language>en-us</language>
+		<copyright>Copyright 2013, McKinsey &amp; Company</copyright>
+		<managingEditor>test@mckinsey.com (DotCom Team)</managingEditor>
+		<webMaster>web@mckinsey.com (DotCom Team)</webMaster>
+		<pubDate>Fri, 30 Aug 2013 00:00:01 -0500</pubDate>
+		<lastBuildDate>Fri, 30 Aug 2013 10:20:01 -0500</lastBuildDate>
+		<category domain="Syndic8">Business</category>
+		<!-- <generator/> --> 
+		<!-- <cloud/> -->
+		<ttl>5</ttl>
+		<!-- <image/> -->
+		<!-- <rating/> -->
+		<!-- <textInput/> -->
+		<!-- <skipHours/> -->
+		<!-- <skipDays/> -->
+
+		<fh:incremental>false</fh:incremental>
+		<atom:link rel="hub" href="http://pubsubhubbub.appspot.com"/>
+		<atom:link rel="self" href="http://67.214.133.121/test/rss_v32.xml"/>
+
+		<item>
+			<title>
+				<![CDATA[Game changers: Five opportunities for US growth and renewal]]>
+			</title>
+			<link>http://www.mckinsey.com/insights/americas/us_game_changers</link>
+			<guid>http://67.214.133.121/test/rss_v29.xml#6</guid>
+			<pubDate>Fri, 30 Aug 2013 09:20:01 -0500</pubDate>
+			<dc:creator>Susan Lund</dc:creator>
+			<dc:creator>James Manyika</dc:creator>
+			<dc:creator>Scott Nyquist</dc:creator>
+			<dc:creator>Lenny Mendonca</dc:creator> 
+			<dc:creator>Sreenivas Ramaswamy</dc:creator>
+			<description>
+				<![CDATA[
+        <p>The US economy is struggling to find a new formula for vigorous growth. But all growth opportunities are not created equal. New McKinsey research pinpoints five catalysts—in energy, trade, technology, infrastructure, and talent development—that can quickly create jobs and deliver a substantial boost to GDP by 2020. An animated video below also runs the numbers on these game changers and frames the challenge for business and government to make the most of the opportunity.</p>
+      ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+        The US economy is struggling to find a new formula for vigorous growth. But all growth opportunities are not created equal. New McKinsey research pinpoints five catalysts—in energy, trade, technology, infrastructure, and talent development—that can quickly create jobs and deliver a substantial boost to GDP by 2020. An animated video below also runs the numbers on these game changers and frames the challenge for business and government to make the most of the opportunity.
+        
+        Four years after the official end of the Great Recession, US economic growth remains lackluster. But there is more at work here than simply the business cycle: strains in the labor market were apparent long before 2008. Today, labor-force participation is at a 34-year low, and the United States has two million fewer jobs than it did when the recession began. Weak investment, demographic shifts, and a slowdown in productivity growth are dampening the economy’s trajectory.
+        But the United States does not have to resign itself to sluggish growth. Game changers: Five opportunities for US growth and renewal, a new report from the McKinsey Global Institute (MGI), identifies specific catalysts that can add hundreds of billions of dollars to annual GDP and create millions of new jobs by 2020.
+        To identify these catalysts, MGI looked for developments that are poised to achieve scale immediately and could accelerate growth across multiple sectors by 2020. We also focused on areas with an immediate window for action.
+        <p></p>
+		 <p> Interactive B</p>
+		<div class="interactive">
+		<a id="interactive" onclick="newwindow=window.open ('http://www.mckinsey.com/tools/Wrappers/Wrapper.aspx?sid={80527B84-A038-47EA-A6ED-E72BFB5CF10E}&pid={BF5B4B59-99D3-4B33-A6F7-E99C34343A1E','WrapperWindow','toolbar=no, location=no, directories=no, resizable=yes, status=no,titlebar = no,scrollbars=yes, top=0,width=1000,height=680'); newwindow.focus();return false;"><img id="svgImage" width="510" data-nosvg="http://67.214.133.121/~/media/McKinsey/dotcom/Insights/Corporate Finance/Whither the stock market/deadstocks-pop-artwork2.ashx?mw=510" src="http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights%20and%20pubs/MGI/Research/Productivity%20Competitiveness%20and%20Growth/The%20Future%20of%20Manufacturing/sm_th_future_of_manufacturing_slideshow.ashx" style="border-width:0px;"></a>
+
+		</div>
+
+        Game changers zeroes in on five mutually reinforcing opportunities:
+        Shale-gas and -oil production. Powered by advances in horizontal drilling and hydraulic fracturing, the production of domestic shale gas and oil has grown more than 50 percent annually since 2007. The shale boom could add as much as $690 billion a year to GDP and create up to 1.7 million jobs across the economy by 2020. The impact will extend to energy-intensive manufacturing industries and beyond. The United States now has the potential to reduce net energy imports to zero—but only if it can successfully address the associated environmental risks. 
+        US trade competitiveness in knowledge-intensive goods. The United States is one of the few advanced economies running a trade deficit in knowledge-intensive industries. But changing factor costs, a rebound in demand, and currency shifts are creating an opening to increase US production and exports of knowledge-intensive goods, such as automobiles, commercial airliners, medical devices, and petrochemicals. By implementing five strategies to boost competitiveness in these sectors, we believe the United States could reduce the trade deficit in knowledge-intensive industries to its 2000 level or close it—which would add up to $590 billion in annual GDP by 2020 and create up to 1.8 million new jobs.
+        Big-data analytics as a productivity tool. Sectors across the economy can harness the deluge of data generated by transactions, medical and legal records, videos, and social technologies—not to mention the sensors, cameras, bar codes, and transmitters embedded in the world around us. Advances in computing and analytics can transform this sea of data into insights that create operational efficiencies. By 2020, the wider adoption of big-data analytics could increase annual GDP in retailing and manufacturing by up to $325 billion and save as much as $285 billion in the cost of health care and government services.
+        Increased investment in infrastructure, with a new emphasis on productivity. The backlog of maintenance and upgrades for US roads, highways, bridges, and transit and water systems is reaching critical levels. The United States must increase its annual infrastructure investment by one percentage point of GDP to erase this competitive disadvantage. By 2020, that could create up to 1.8 million jobs and boost annual GDP by up to $320 billion. The impact could grow to $600 billion annually by 2030 if the selection, delivery, and operation of infrastructure investments improve.
+        A more effective US system of talent development. 
+        
+		<p> <strong> Exhibit in figure </strong></p>
+		<figure>
+		 <div class="exhibitContainer"><a name="Opportunities"></a><h4 id="headlineH4">Exhibit</h4><a id="Opportunities" exhibiturl="/tools/Wrappers/Wrapper.aspx?sid={1DE8B545-31FB-4500-AAB6-FC2EADD6000B}&amp;pid={1DF8DC40-7C9C-4FF5-8528-C5AD1B295A27}" exhibitwd="0" exhibitht="0" class="black popupIframe"><h3 id="displayTextH3" class="md"></h3></a><p id="description" class="grayNote">Five US game changers could substantially boost GDP.</p><div class="clear"></div><div class="exhibit"><a id="Opportunities" exhibiturl="/tools/Wrappers/Wrapper.aspx?sid={1DE8B545-31FB-4500-AAB6-FC2EADD6000B}&amp;pid={1DF8DC40-7C9C-4FF5-8528-C5AD1B295A27}" exhibitwd="0" exhibitht="0" class="popupIframe"><img id="svgImage" width="510" data-nosvg="http://67.214.133.121/~/media/McKinsey/dotcom/Insights/Growth/US game changers/png_MGI_US_game_changers_exhibit.ashx?mw=510" src="http://67.214.133.121/~/media/McKinsey/dotcom/Insights/Growth/US%20game%20changers/SVG_USGameChangers_ex.ashx?mw=510" style="border-width:0px;"></a><div class="clear">
+		 </div></div></div>
+		 </figure>
+		<p>
+        The nation’s long-standing advantage in education and skills has been eroding, but today real improvements are within reach. At the postsecondary level, expanding industry-specific training and increasing the number of graduates in the fields of science, technology, engineering, and math could build a more competitive workforce. At the K–12 level, enhancing classroom instruction, turning around underperforming high schools, and introducing digital learning tools can boost student achievement. These initiatives could raise GDP by as much as $265 billion by 2020—and achieve a dramatic “liftoff” effect by 2030, adding as much as $1.7 trillion to annual GDP.
+        These opportunities can have immediate demand-stimulus effects that would get the economy moving again in the short term and also have longer-term effects that would build US competitiveness and productivity well beyond 2020. Taking action now could mark a turning point for the US economy and drive growth and prosperity for decades to come.  
+       </p>		
+       <p>
+        <h4> Audio</h4>
+         <iframe width=”560” height=”315” src=”http://www.youtube.com/embed/OE4AH4DZtEI” frameborder=”0” allowfullscreen></iframe>
+       
+<media:content url="http://www.mckinsey.com/assets/dotcom/mgi/interactives/role_of_us_multinational_companies/MGI_The_role_of_multinational_companies_in_US_growth_and_competitiveness.mp3" medium=”audio/mpeg”/>
+     	<audio controls>
+			<source src="http://www.mckinsey.com/assets/dotcom/mgi/interactives/role_of_us_multinational_companies/MGI_The_role_of_multinational_companies_in_US_growth_and_competitiveness.mp3" type="audio/mpeg">
+			Your browser does not support the HTML5 audio tag.
+		</audio>
+		</p>
+		<p>		
+		About the authors
+
+        Susan Lund is a principal at the McKinsey Global Institute, where James Manyika is a director; Scott Nyquist is a director in McKinsey’s Houston office; Lenny Mendonca is a director in the Washington, DC, office. </p>
+                <p><a href="http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights/Growth/US%20game%20changers/MGI_Game_changers_US_growth_and_renewal_Full_report.ashx">Download Full Article</a></p>
+      
+      ]]>
+			</content:encoded>
+
+		</item>
+
+		<item>
+			<title >
+				<![CDATA[Rethinking infrastructure]]>
+			</title>
+			<link>http://www.mckinsey.com/insights/engineering_construction/rethinking_infrastructure</link>
+			<guid>http://67.214.133.121/test/rss_v29.xml#5</guid>
+			<pubDate>Wed, 28 Aug 2013 08:00:00 -0500</pubDate>
+			<description>
+				<![CDATA[
+        <p>How should the world deal with the problem of insufficient or inadequate infrastructure and its threats to health, safety, and economic growth? Here global authorities and McKinsey experts share insights on tackling one of the 21st century’s biggest and most expensive problems.</p>
+      ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+		<p>How should the world deal with the problem of insufficient or inadequate infrastructure and its threats to health, safety, and economic growth? Here global authorities and McKinsey experts share insights on tackling one of the 21st century’s biggest and most expensive problems. </p>
+		
+        <figure>
+          <video width="400" height="300" controls>
+           <source src="http://brightcove.vo.llnwd.net/e1/uds/pd/1971571337001/1971571337001_2341035695001_50-Big-Data-revolutions-healthcare-Nicolaus-Henke.mp4">
+          </video>
+        </figure>
+		<p><strong>Just</strong> to keep pace with projected global growth between now and 2030, the world will have to spend $57 trillion on roads, bridges, ports, power plants, water facilities, and other forms of infrastructure. That’s nearly 60 percent above the amount spent in the last 18 years and more than the estimated value of today’s infrastructure. To deconstruct the problem of insufficient or inadequate infrastructure and to rethink the financing and delivery of better projects at lower cost, this package convenes an ongoing dialogue among global experts in construction, organization, funding, logistics, and government relations. <p/>
+				
+		
+        <p>Improving the design, financing, and delivery of infrastructure on a global scale doesn’t call for reinventing the wheel. Infrastructure productivity: How to save $1 trillion a year, a report from the McKinsey Global Institute (MGI) and McKinsey’s infrastructure practice, shows how practical steps can boost productivity in the sector—a long-time laggard—to achieve critical cost savings. A related slideshow examines the challenge of investing in infrastructure at a time of high government deficits and explains the savings that productivity gains can provide. And in a group of video interviews, authorities such as former US secretary of state Madeleine Albright; Rockefeller Foundation president Judith Rodin; Raymond Ch’ien, chairman of Hong Kong’s MTR Corporation; Mark Wiseman, chief executive of the Canada Pension Plan Investment Board; and others explore how efforts to rethink infrastructure can improve projects, partnerships, and outcomes for society in addressing one of the world’s most urgent issues. </p>
+		
+		<img src="http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights/Energy%20Resources%20Materials/Daniel%20Yergin%20on%20the%20future%20of%20global%20energy/daye12_frth_feature_2x.ashx" >
+      ]]>
+			</content:encoded>
+
+
+		</item>
+		<item>
+			<title >
+				<![CDATA[Rethinking infrastructure: A philanthropist’s view]]>
+			</title>
+			<link>http://www.mckinsey.com/insights/engineering_construction/judith_rodin</link>
+			<guid>http://67.214.133.121/test/rss_v29.xml#4</guid>
+			<pubDate>Fri, 26 Jul 2013 07:00:00 -0500</pubDate>
+
+			<description>
+				<![CDATA[
+        <p>Judith Rodin, president of the Rockefeller Foundation, describes innovations to develop infrastructure projects holistically and explores the challenges posed by Asia’s urbanization boom.</p>
+      ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+		<p> <strong>Historically </strong>, the infrastructure industry has been resistant to innovation and productivity gains, in part because of the piecemeal approach to many projects. In this video, Judith Rodin, president of the Rockefeller Foundation, describes her philanthropy’s push to plan projects systematically and to combine various elements holistically, including the use of natural “soft” infrastructure assets, such as forests, alongside “hard” construction assets. She also explores the challenges to infrastructure planning posed by Asia’s booming cities and growing middle classes. This interview was conducted by McKinsey’s Rik Kirkland in Istanbul, Turkey, in November 2012. What follows is an edited transcript of her remarks. For more on this topic, also read Infrastructure productivity: How to save $1 trillion a year, a report from the McKinsey Global Institute (MGI).</p>
+        <figure>
+          <video width="400" height="300" controls>
+           <source src="http://brightcove.vo.llnwd.net/pd16/media/1971571337001/1971571337001_2594011151001_Government-designed-for-new-times-Persson.mp4">
+          </video>
+        </figure>
+		<h4>Interview transcript</h4>
+		<h3>Innovating through a holistic approach</h3>
+		<p>Rockefeller is always focused on innovation, right from its beginning. We think that one of the innovations in infrastructure is really taking a systems approach. And that means not thinking about a specific project, not thinking about a specific situation like “water only” or “transport only” or “energy only,” but really looking systemically around what kinds of infrastructure need to support healthy, active, accessible communities or nations. And with that innovative way of thinking, you actually do approach infrastructure differently.</p>
+		<figure>
+          <video width="400" height="300" controls>
+           <source src="http://brightcove.vo.llnwd.net/e1/uds/pd/1971571337001/1971571337001_2341035695001_50-Big-Data-revolutions-healthcare-Nicolaus-Henke.mp4">
+          </video>
+        </figure>
+		<p>You think about both “hard” and “soft” infrastructure holistically. Sometimes it’s better to plant mangroves and think about coastal restoration than it is to build a seawall. Or at least when you’re building hard infrastructure, to think about the soft infrastructure solutions. Sometimes it’s better, now that we have those materials, to build your streets and sidewalks with material that’s porous. The kind of porous material now is an innovation, because it allows the material to absorb water more quickly and release it more slowly. Sometimes it’s preventing construction. We worked in Da Nang with the municipal government and it was very clear that construction that they had already permitted for new hotels on the beach would have flooded twice a year, back into the poorest communities right behind it.</p>
+		<p>And to their credit, they stopped the project. They moved where the hotels would be. They did some restoration for the poorer communities as well. So that’s what we mean by a systemic, holistic approach. So everywhere that there is innovation, whether it’s technological innovation or systems innovation, it’s critical to apply that to thinking about how to develop infrastructure going forward.</p>
+		<figure>
+          <video width="400" height="300" controls>
+           <source src="http://brightcove.vo.llnwd.net/e1/uds/pd/1971571337001/1971571337001_2448453520001_05-Sheryl-Sandberg-Conversation-March-2013.mp4">
+          </video>
+        </figure>
+		
+
+		
+		<p>And then we actually support the construction of a variety of both soft and hard infrastructure. Sometimes it’s early warning systems, sometimes it’s dams, intervening in dams above the city in ways that will prevent flooding. So you’re working at a more regional level. One of the things we’ve been struck by is how many of the municipalities in these regions don’t have strong municipal governance. They also don’t have municipal bonding authority. So working with them on how the financing structures and some innovative financing sources can be brought to bear has been another really important piece of the work.</p>
+
+				<div class="interactiveContainer"><a name="interactive"></a><h4 id="headlineH6">Interactive</h4><div class="description"><a id="interactive" onclick="newwindow=window.open ('http://www.mckinsey.com/tools/Wrappers/Wrapper.aspx?sid={E1ED9266-953A-4374-A526-E71ABC81B850}&amp;pid={79793057-D7A1-4256-8DBA-A9364DF32E97}','WrapperWindow','toolbar=no, location=no, directories=no, resizable=yes, status=no,titlebar = no,scrollbars=yes, top=0,width=1000,height=680'); newwindow.focus();return false;" class="black"><h3 id="displayTextH3" class="md">Whither the US equity markets: An interactive simulator</h3></a><p id="description" class="grayNote">Using this interactive simulator, readers can explore the likely impact of their own assumptions about market fundamentals.</p></div><div class="interactive"><a id="interactive" onclick="newwindow=window.open ('http://www.mckinsey.com/tools/Wrappers/Wrapper.aspx?sid={E1ED9266-953A-4374-A526-E71ABC81B850}&amp;pid={79793057-D7A1-4256-8DBA-A9364DF32E97}','WrapperWindow','toolbar=no, location=no, directories=no, resizable=yes, status=no,titlebar = no,scrollbars=yes, top=0,width=1000,height=680'); newwindow.focus();return false;"><img id="svgImage" width="510" data-nosvg="http://67.214.133.121/~/media/McKinsey/dotcom/Insights/Corporate Finance/Whither the stock market/deadstocks-pop-artwork2.ashx?mw=510" src="http://67.214.133.121/~/media/McKinsey/dotcom/Insights/Corporate%20Finance/Whither%20the%20stock%20market/deadstocks-pop-artwork2.ashx?mw=510" style="border-width:0px;"></a><div class="clear"></div></div></div>
+						
+        ]]>
+			</content:encoded>
+
+		</item>
+		<item>
+			<title>
+				<![CDATA[Another oil shock?]]>
+			</title>
+			<link>http://www.mckinsey.com/insights/energy_resources_materials/another_oil_shock</link>
+			<guid>http://67.214.133.121/test/rss_v29.xml#3</guid>
+			<pubDate>Fri, 26 Jul 2013 06:00:00 -0500</pubDate>
+			<dc:creator>Tom Janssens</dc:creator>
+			<dc:creator>Scott Nyquist</dc:creator>
+			<dc:creator>Occo Roelofsen</dc:creator>
+			<description>
+				<![CDATA[
+        <p>It’s possible, though far from certain, that oil prices will spike in the years ahead. Here’s why—and how you can prepare</p>
+      ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+		<p><strong>It’s been a while</strong> since the world has been truly preoccupied with the threat of sustained high oil prices. The global economic recovery has been muted, and a double-dip recession remains possible.</p>
+		
+		<p>But that dour prospect shouldn’t make executives sanguine about the risk of another oil shock. Emerging markets are still in the midst of a historic transition toward greater energy consumption. When global economic performance becomes more robust, oil demand is likely to grow faster than supply capacity can. As that happens, at some point before too long supply and demand could collide—gently or ferociously.</p>
+		
+		<p>The case for the benign scenario rests on a steady evolution away from oil consumption in areas such as transportation, chemical production, power, and home heating. Moves by many major economies to impose tougher automotive fuel efficiency standards are a step in this direction. However, fully achieving the needed transition will take more stringent regulation, such as the abolition of fuel subsidies in oil-producing countries, Asia, and elsewhere, as well as widespread consumer behavior changes. And historically, governments, companies, and consumers have been disinclined to tackle tough policy choices or make big changes until their backs are against the wall. </p>
+		<figure><table bgcolor="#C2C2C2" border="1">
+        <tr><td>
+
+            <div>
+              <h4>Sidebar (Open)</h4>
+            </div>
+            <div>
+              <div>
+                <p>The automotive sector’s road to greater fuel efficiency</p>
+              </div>
+            </div>
+
+          <div>
+
+            <p><strong>Regulatory standards already in place </strong> should dramatically enhance the efficiency of autos around the world. The European Union’s carbon emissions rules, for example, require annual improvements of 6 percent a year between 2015 and 2020. This implies, according to our analysis, that new cars driving on European roads will consume 40 to 50 percent less fuel in 2020 than they did in 2010. Regulators in China, Japan, and the United States are also eyeing ambitious rates of improvement, albeit from different starting points. US fuel economy levels in 2020—at around 40 miles a gallon—would lag behind China’s in that year and simply match Europe’s 2010 levels.
+
+			The automotive industry, boxed in by fierce global competition and flat prices, has responded in the past by pushing design improvements and productivity gains that make room for costly new content, including technology required for meeting regulatory standards. Here’s one example: if you adjust for inflation the cost of a 2001 Toyota Camry, you see that by 2010, the price of the car to US consumers had actually dropped by $2,500 in real terms—although the 2010 Camry was better equipped and 10 percent more fuel efficient. As automakers work hard to meet new and tougher fuel economy standards, they are likely to follow the same playbook. The starting point: improving </p>
+
+		</div>      
+
+
+		</td></tr></table><figure>
+		<p>This inertia suggests another scenario—one that’s sufficiently plausible and underappreciated that we think it’s worth exploring: the prospect that within this decade, the world could experience a period of significant volatility, with oil prices leaping upward and oscillating between $125 and $175 a barrel (or higher) for some time. The resulting economic pain would be significant. Economic modeling by our colleagues suggests that by 2020, global GDP would be about $1.5 trillion smaller than expected, if oil prices spiked and stayed high for several years. </p>
+		
+       <p>But like any difficult transition, this one also would create major opportunities—for consumers of energy to differentiate their cost structures from competitors that aren’t prepared and for a host of energy innovators to create substitutes for oil and tap into new sources of supply. Furthermore, if we endured a period of high and volatile prices that lasted for two or three years, by 2020 or so oil could face real competition from other energy sources. </p>
+	   
+	  
+        <p><strong>Sidebar</strong>
+	   <details><summary><strong>The automotive sector’s road to greater fuel efficiency</strong></summary>
+	    <figure><table bgcolor="#C2C2C2" border="1">
+        <tr><td>
+          <div>
+    
+            <p><strong>Regulatory standards already in place </strong> should dramatically enhance the efficiency of autos around the world. The European Union’s carbon emissions rules, for example, require annual improvements of 6 percent a year between 2015 and 2020. This implies, according to our analysis, that new cars driving on European roads will consume 40 to 50 percent less fuel in 2020 than they did in 2010. Regulators in China, Japan, and the United States are also eyeing ambitious rates of improvement, albeit from different starting points. US fuel economy levels in 2020—at around 40 miles a gallon—would lag behind China’s in that year and simply match Europe’s 2010 levels.
+
+			The automotive industry, boxed in by fierce global competition and flat prices, has responded in the past by pushing design improvements and productivity gains that make room for costly new content, including technology required for meeting regulatory standards. Here’s one example: if you adjust for inflation the cost of a 2001 Toyota Camry, you see that by 2010, the price of the car to US consumers had actually dropped by $2,500 in real terms—although the 2010 Camry was better equipped and 10 percent more fuel efficient. As automakers work hard to meet new and tougher fuel economy standards, they are likely to follow the same playbook. The starting point: improving </p>	   
+		</div>      
+
+
+		</td></tr></table><figure></details></p>
+
+	   <p> To paint a clearer picture for senior executives of what such a world would mean for them—and how to prepare now—we asked several colleagues to join us in a thought experiment about the impact of a prolonged oil price spike. Russell Hensley and Andreas Zielke, from McKinsey’s automotive practice, explain how intensified regulation already is leading a transition toward greater fuel economy, as well as the potential for higher oil prices to reinforce that momentum (see sidebar “The automotive sector’s road to greater fuel efficiency”). Jonathan Ablett, Lowell Bryan, and Sven Smit, from McKinsey’s strategy practice, assess the global economic impact of an oil price spike and the strategic implications of a slower-growth environment (see sidebar “Anticipating economic headwinds”). Finally, Knut Alicke and Tobias Meyer, from McKinsey’s operations practice, describe energy-efficient supply chain strategies that some companies are already undertaking (see sidebar “Building a supply chain that can withstand high oil prices”). </p>
+	   <img src="http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights/Growth/US%20game%20changers/MGI_US_game_changers_video_image_150x84.jpeg" >
+      ]]>
+			</content:encoded>      
+
+		</item>
+
+		<item>
+			<title >
+				<![CDATA[A new trend line for global banking]]>
+			</title>
+			<link>http://www.mckinsey.com/insights/financial_services/a_new_trend_line_for_global_banking</link>
+			<guid>http://67.214.133.121/test/rss_v29.xml#2</guid>
+			<pubDate>Fri, 26 Jul 2013 05:00:00 -0500</pubDate>
+			<dc:creator>Miklos Dietz, Philipp Härle, Tamas Nagy</dc:creator>
+
+			<description>
+				<![CDATA[ <p> By  Miklos Dietz, Philipp Härle, and Tamas Nagy </p>
+        <p>Revenues could flatline at about 5 percent of GDP through 2020, though innovation might make growth stronger.</p>
+      ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+		<strong>After climbing for 30 years, </strong> the share of economic activity attributable to bank revenues1 fell in the wake of the global financial crisis. Looking forward, revenues could flatline at about 5 percent of GDP through 2020 (exhibit). In fact, that’s our base scenario for the global banking industry—one that implies growth at the same rate as nominal GDP, following the pattern of other industries.
+
+		<div class="interactiveContainer"><a name="interactive"></a><h4 id="headlineH6">Interactive</h4>
+		<div class="description"><a id="interactive" onclick="newwindow=window.open ('http://www.mckinsey.com/tools/Wrappers/Wrapper.aspx?sid={2900EE3A-0732-46F8-829E-58A414A6D1BF}&pid={2EA004FA-89A4-4621-9D9E-81CF94486C06}','WrapperWindow','toolbar=no, location=no, directories=no, resizable=yes, status=no,titlebar = no,scrollbars=yes, top=0,width=1000,height=680'); newwindow.focus();return false;" class="black"><h3 id="displayTextH3" class="md">Whither the US equity markets: An interactive simulator</h3></a><p id="description" class="grayNote">Using this interactive simulator, readers can explore the likely impact of their own assumptions about market fundamentals.</p>
+		</div>
+		<div class="interactive">
+		<a id="interactive" onclick="newwindow=window.open ('http://www.mckinsey.com/tools/Wrappers/Wrapper.aspx?sid={2900EE3A-0732-46F8-829E-58A414A6D1BF}&pid={2EA004FA-89A4-4621-9D9E-81CF94486C06}','WrapperWindow','toolbar=no, location=no, directories=no, resizable=yes, status=no,titlebar = no,scrollbars=yes, top=0,width=1000,height=680'); newwindow.focus();return false;"><img id="svgImage" width="510" data-nosvg="http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights/Economic%20Studies/Snapshots%20from%20Chinas%20next%20chapter/China_Dataslideshow_510x378_v2.ashx" src="http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights/Economic%20Studies/Snapshots%20from%20Chinas%20next%20chapter/China_Dataslideshow_510x378_v2.ashx" style="border-width:0px;"></a>
+		</div>
+		</div>
+		
+In developed markets, factors contributing to this trajectory include deleveraging and stiffer regulatory regimes that will require higher bank-capital ratios. In many emerging markets, banking penetration is relatively low (less than 4 percent in India, Mexico, Nigeria, and Russia, for example). In others, it is falling—in China, from 6.2 percent to 5.3 percent, we estimate, mostly as a result of credit liberalization, which will go on dampening margins. These forces are unlikely to be counterbalanced by the positive impact of outliers such as Brazil (where banking penetration is more than 10 percent), global infrastructure-spending growth, or the emergence of a new class of borrower in developing nations. If interest rates in developed markets rose faster than anticipated, or if an unexpected burst of product and service innovation took hold, though, the industry’s growth could become stronger.
+		
+        ]]>
+			</content:encoded>
+
+		</item>
+
+		<item>
+			<title >
+				<![CDATA[The trouble with travel distribution]]>
+			</title>
+			<link>http://www.mckinsey.com/insights/engineering_construction/judith_rodin</link>
+			<guid>http://67.214.133.121/test/rss_v29.xml#1</guid>
+			<pubDate>Fri, 26 Jul 2013 04:00:00 -0500</pubDate>
+
+			<description>
+				<![CDATA[
+        <p>Judith Rodin, president of the Rockefeller Foundation, describes innovations to develop infrastructure projects holistically and explores the challenges posed by Asia’s urbanization boom.</p>
+      ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[
+		<p> <strong>Historically </strong>, the infrastructure industry has been resistant to innovation and productivity gains, in part because of the piecemeal approach to many projects. In this video, Judith Rodin, president of the Rockefeller Foundation, describes her philanthropy’s push to plan projects systematically and to combine various elements holistically, including the use of natural “soft” infrastructure assets, such as forests, alongside “hard” construction assets. She also explores the challenges to infrastructure planning posed by Asia’s booming cities and growing middle classes. This interview was conducted by McKinsey’s Rik Kirkland in Istanbul, Turkey, in November 2012. What follows is an edited transcript of her remarks. For more on this topic, also read Infrastructure productivity: How to save $1 trillion a year, a report from the McKinsey Global Institute (MGI).</p>
+        <figure>
+          <video width="400" height="300" controls>
+           <source src="http://brightcove.vo.llnwd.net/pd16/media/1971571337001/1971571337001_2594011151001_Government-designed-for-new-times-Persson.mp4">
+          </video>
+        </figure>
+		<h4>Interview transcript</h4>
+		<h3>Innovating through a holistic approach</h3>
+		<p>Rockefeller is always focused on innovation, right from its beginning. We think that one of the innovations in infrastructure is really taking a systems approach. And that means not thinking about a specific project, not thinking about a specific situation like “water only” or “transport only” or “energy only,” but really looking systemically around what kinds of infrastructure need to support healthy, active, accessible communities or nations. And with that innovative way of thinking, you actually do approach infrastructure differently.</p>
+		<p>You think about both “hard” and “soft” infrastructure holistically. Sometimes it’s better to plant mangroves and think about coastal restoration than it is to build a seawall. Or at least when you’re building hard infrastructure, to think about the soft infrastructure solutions. Sometimes it’s better, now that we have those materials, to build your streets and sidewalks with material that’s porous. The kind of porous material now is an innovation, because it allows the material to absorb water more quickly and release it more slowly. Sometimes it’s preventing construction. We worked in Da Nang with the municipal government and it was very clear that construction that they had already permitted for new hotels on the beach would have flooded twice a year, back into the poorest communities right behind it.</p>
+		
+		<p>Pull Quotes sample- Aside</p>
+		
+		<aside>
+			And to their credit, they stopped the project. They moved where the hotels would be. They did some restoration for the poorer communities as well. So that’s what we mean by a systemic, holistic approach. So everywhere that there is innovation, whether it’s technological innovation or systems innovation, it’s critical to apply that to thinking about how to develop infrastructure going forward.
+		</aside>
+		
+		
+		<p>Pull Quotes sample - class=fl-pullquote</p>
+		<div class=fl-pullquote>
+		And to their credit, they stopped the project. They moved where the hotels would be. They did some restoration for the poorer communities as well. So that’s what we mean by a systemic, holistic approach. So everywhere that there is innovation, whether it’s technological innovation or systems innovation, it’s critical to apply that to thinking about how to develop infrastructure going forward.
+		</div>
+
+		<p>And then we actually support the construction of a variety of both soft and hard infrastructure. Sometimes it’s early warning systems, sometimes it’s dams, intervening in dams above the city in ways that will prevent flooding. So you’re working at a more regional level. One of the things we’ve been struck by is how many of the municipalities in these regions don’t have strong municipal governance. They also don’t have municipal bonding authority. So working with them on how the financing structures and some innovative financing sources can be brought to bear has been another really important piece of the work.</p>
+		
+        ]]>
+			</content:encoded>
+
+		</item>
+
+
+	</channel>
+</rss>
