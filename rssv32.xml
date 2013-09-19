@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -78,12 +79,7 @@
         These opportunities can have immediate demand-stimulus effects that would get the economy moving again in the short term and also have longer-term effects that would build US competitiveness and productivity well beyond 2020. Taking action now could mark a turning point for the US economy and drive growth and prosperity for decades to come.  
        </p>		
        <p>
-        <h4> Audio MK</h4>
-        <video width="600" height="450">
-            <source src="http://media.example.com/1992/01/09/squirrel-lincoln.mp4.jpg" type="video/mp4">
-          </video>
-       
-<media:content url="http://www.mckinsey.com/assets/dotcom/mgi/interactives/role_of_us_multinational_companies/MGI_The_role_of_multinational_companies_in_US_growth_and_competitiveness.mp3" medium=”audio/mpeg”/>
+        <h4> Audio</h4>
      	<audio controls>
 			<source src="http://www.mckinsey.com/assets/dotcom/mgi/interactives/role_of_us_multinational_companies/MGI_The_role_of_multinational_companies_in_US_growth_and_competitiveness.mp3" type="audio/mpeg">
 			Your browser does not support the HTML5 audio tag.
@@ -94,7 +90,6 @@
 
         Susan Lund is a principal at the McKinsey Global Institute, where James Manyika is a director; Scott Nyquist is a director in McKinsey’s Houston office; Lenny Mendonca is a director in the Washington, DC, office. </p>
                 <p><a href="http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights/Growth/US%20game%20changers/MGI_Game_changers_US_growth_and_renewal_Full_report.ashx">Download Full Article</a></p>
-      
       ]]>
 			</content:encoded>
 
