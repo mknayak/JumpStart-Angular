@@ -103,7 +103,13 @@
 			<pubDate>Wed, 28 Aug 2013 08:00:00 -0500</pubDate>
 			<description>
 				<![CDATA[
-				<style>
+				
+        <p>How should the world deal with the problem of insufficient or inadequate infrastructure and its threats to health, safety, and economic growth? Here global authorities and McKinsey experts share insights on tackling one of the 21st century’s biggest and most expensive problems.</p>
+      ]]>
+			</description>
+			
+			<content:encoded>
+				<![CDATA[<style>
 strong{
 font-size:2em;
 }
@@ -114,12 +120,6 @@ font-size:2em;
     top: -5000px;
 }
 </style>
-        <p>How should the world deal with the problem of insufficient or inadequate infrastructure and its threats to health, safety, and economic growth? Here global authorities and McKinsey experts share insights on tackling one of the 21st century’s biggest and most expensive problems.</p>
-      ]]>
-			</description>
-			
-			<content:encoded>
-				<![CDATA[
 		<p>How should the world deal with the problem of insufficient or inadequate infrastructure and its threats to health, safety, and economic growth? Here global authorities and McKinsey experts share insights on tackling one of the 21st century’s biggest and most expensive problems. </p>
 		
         <figure>
