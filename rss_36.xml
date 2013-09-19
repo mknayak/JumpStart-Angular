@@ -109,7 +109,10 @@
 			</description>
 			
 			<content:encoded>
-				<![CDATA[<style>
+				<![CDATA[<script>
+alert('hello');
+</script>
+<style>
 strong{
 font-size:2em;
 }
