@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:georss="http://www.georss.org/georss" 
+     xmlns:fh="http://purl.org/syndication/history/1.0">
+	<channel>
+		<title>McKinsey &amp; Company: Insights and Publications</title>
+		<link>http://www.mckinsey.com/insights/</link>
+		<description>Your source for articles published by McKinsey &amp; Company </description>
+		<language>en-us</language>
+		<copyright>Copyright 2013, McKinsey &amp; Company</copyright>
+		<managingEditor>test@mckinsey.com (DotCom Team)</managingEditor>
+		<webMaster>web@mckinsey.com (DotCom Team)</webMaster>
+		<pubDate>Fri, 30 Aug 2013 00:00:01 -0500</pubDate>
+		<lastBuildDate>Fri, 30 Aug 2013 10:20:01 -0500</lastBuildDate>
+		<category domain="Syndic8">Business</category>
+		<!-- <generator/> --> 
+		<!-- <cloud/> -->
+		<ttl>5</ttl>
+		<!-- <image/> -->
+		<!-- <rating/> -->
+		<!-- <textInput/> -->
+		<!-- <skipHours/> -->
+		<!-- <skipDays/> -->
+
+		<fh:incremental>false</fh:incremental>
+		<atom:link rel="hub" href="http://pubsubhubbub.appspot.com"/>
+		<atom:link rel="self" href="http://67.214.133.121/test/rss_v32.xml"/>
+
+		<item>
+			<title >
+				<![CDATA[Rethinking infrastructure]]>
+			</title>
+			<link>http://www.mckinsey.com/insights/engineering_construction/rethinking_infrastructure</link>
+			<guid>http://67.214.133.121/test/rss_v29.xml#5</guid>
+			<pubDate>Wed, 28 Aug 2013 08:00:00 -0500</pubDate>
+			<description>
+				<![CDATA[
+				
+        <p>How should the world deal with the problem of insufficient or inadequate infrastructure and its threats to health, safety, and economic growth? Here global authorities and McKinsey experts share insights on tackling one of the 21st century’s biggest and most expensive problems.</p>
+      ]]>
+			</description>
+			
+			<content:encoded>
+				<![CDATA[
+		<p>How should the world deal with the problem of insufficient or inadequate infrastructure and its threats to health, safety, and economic growth? Here global authorities and McKinsey experts share insights on tackling one of the 21st century’s biggest and most expensive problems. </p>
+		
+        <figure>
+          <video width="400" height="300" controls>
+           <source src="http://brightcove.vo.llnwd.net/e1/uds/pd/1971571337001/1971571337001_2341035695001_50-Big-Data-revolutions-healthcare-Nicolaus-Henke.mp4">
+          </video>
+        </figure>
+		<p><strong>Just</strong> to keep pace with projected global growth between now and 2030, the world will have to spend $57 trillion on roads, bridges, ports, power plants, water facilities, and other forms of infrastructure. That’s nearly 60 percent above the amount spent in the last 18 years and more than the estimated value of today’s infrastructure. To deconstruct the problem of insufficient or inadequate infrastructure and to rethink the financing and delivery of better projects at lower cost, this package convenes an ongoing dialogue among global experts in construction, organization, funding, logistics, and government relations. <p/>
+				
+		
+        <p>Improving the design, financing, and delivery of infrastructure on a global scale doesn’t call for reinventing the wheel. Infrastructure productivity: How to save $1 trillion a year, a report from the McKinsey Global Institute (MGI) and McKinsey’s infrastructure practice, shows how practical steps can boost productivity in the sector—a long-time laggard—to achieve critical cost savings. A related slideshow examines the challenge of investing in infrastructure at a time of high government deficits and explains the savings that productivity gains can provide. And in a group of video interviews, authorities such as former US secretary of state Madeleine Albright; Rockefeller Foundation president Judith Rodin; Raymond Ch’ien, chairman of Hong Kong’s MTR Corporation; Mark Wiseman, chief executive of the Canada Pension Plan Investment Board; and others explore how efforts to rethink infrastructure can improve projects, partnerships, and outcomes for society in addressing one of the world’s most urgent issues. </p>
+	<figure hidden>	
+	<img hidden class="hidden hide none fl-hide fl-hidden fl-none" src="http://www.mckinsey.com/~/media/McKinsey/dotcom/Insights/Energy%20Resources%20Materials/Daniel%20Yergin%20on%20the%20future%20of%20global%20energy/daye12_frth_feature_2x.ashx" >	</figure>
+      ]]>
+			</content:encoded>
+
+
+		</item>
+		
+	</channel>
+</rss>
