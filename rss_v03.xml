@@ -20,11 +20,6 @@
 		<!-- <generator/> --> 
 		<!-- <cloud/> -->
 		<ttl>5</ttl>
-		<!-- <image/> -->
-		<!-- <rating/> -->
-		<!-- <textInput/> -->
-		<!-- <skipHours/> -->
-		<!-- <skipDays/> -->
 		<fh:incremental>false</fh:incremental>
 		<atom:link rel="hub" href="http://pubsubhubbub.appspot.com"/>
 		<atom:link rel="self" href="http://67.214.133.121/test/rss_v32.xml"/>
