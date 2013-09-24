@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:fh="http://purl.org/syndication/history/1.0">
   <channel>
     <title>McKinsey Insights &amp; Publications</title>
-    <link>http://branch2.mckinsey.com/en/insights</link>
+    <link>http://www.mckinsey.com/en/insights</link>
     <description>McKinsey Insights &amp; Publications RSS Feeds</description>
     <language>en</language>
     <managingEditor>test@mckinsey.com (DotCom Team)</managingEditor>
@@ -27,8 +27,8 @@
     <item>
       <title>Managing when vendor and supplier risk becomes your own</title>
       <description>Financial institutions are being held accountable for the actions of their suppliers. A new approach can help to identify and manage sources of third-party risk.</description>
-      <link>http://branch2.mckinsey.com/en/insights/risk_management/managing_when_vendor_and_supplier_risk_becomes_your_own</link>
-      <guid>http://branch2.mckinsey.com/en/insights/risk_management/managing_when_vendor_and_supplier_risk_becomes_your_own</guid>
+      <link>http://www.mckinsey.com/en/insights/risk_management/managing_when_vendor_and_supplier_risk_becomes_your_own</link>
+      <guid>http://www.mckinsey.com/en/insights/risk_management/managing_when_vendor_and_supplier_risk_becomes_your_own</guid>
       <pubDate>Thu, 01 Aug 2013 00:03:48 GMT</pubDate>
       <ID>016bd1b3-a3dc-4de3-b8ab-b4bd8f3053f0</ID>
       <category>Risk Management</category>
@@ -87,8 +87,8 @@ The authors would like to thank Dmitry Krivin for his contribution to the develo
     <item>
       <title>Three snapshots from China’s next chapter</title>
       <description>A new middle class. An urban transformation. An e-tailing revolution. This slideshow details the key trends that will define a new China.</description>
-      <link>http://branch2.mckinsey.com/en/insights/economic_studies/three_snapshots_from_chinas_next_chapter</link>
-      <guid>http://branch2.mckinsey.com/en/insights/economic_studies/three_snapshots_from_chinas_next_chapter</guid>
+      <link>http://www.mckinsey.com/en/insights/economic_studies/three_snapshots_from_chinas_next_chapter</link>
+      <guid>http://www.mckinsey.com/en/insights/economic_studies/three_snapshots_from_chinas_next_chapter</guid>
       <pubDate>Wed, 31 Jul 2013 04:23:10 GMT</pubDate>
       <ID>2ea004fa-89a4-4621-9d9e-81cf94486c06</ID>
       <category>Economic Studies</category>
@@ -98,8 +98,8 @@ The authors would like to thank Dmitry Krivin for his contribution to the develo
     <item>
       <title>Long-haul China</title>
       <description>This photo-essay offers a passenger-seat view of China’s long-haul trucking industry.</description>
-      <link>http://branch2.mckinsey.com/en/insights/travel_transportation/long-haul_china</link>
-      <guid>http://branch2.mckinsey.com/en/insights/travel_transportation/long-haul_china</guid>
+      <link>http://www.mckinsey.com/en/insights/travel_transportation/long-haul_china</link>
+      <guid>http://www.mckinsey.com/en/insights/travel_transportation/long-haul_china</guid>
       <pubDate>Wed, 31 Jul 2013 00:39:20 GMT</pubDate>
       <ID>135b1e52-f6e1-4e75-a565-a6de49e03bdb</ID>
       <category>Travel &amp; Transportation</category>
@@ -114,8 +114,8 @@ The authors would like to thank Dmitry Krivin for his contribution to the develo
     <item>
       <title>Africa at work: Job creation and inclusive growth</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/africa/a_test</link>
-      <guid>http://branch2.mckinsey.com/en/insights/africa/a_test</guid>
+      <link>http://www.mckinsey.com/en/insights/africa/a_test</link>
+      <guid>http://www.mckinsey.com/en/insights/africa/a_test</guid>
       <pubDate>Thu, 18 Jul 2013 02:25:22 GMT</pubDate>
       <ID>43d94db0-63eb-43f1-bae4-eb007f2ddf52</ID>
       <category>Africa</category>
@@ -133,8 +133,8 @@ The authors would like to thank Dmitry Krivin for his contribution to the develo
     <item>
       <title>Can Africa continue to grow?Upated</title>
       <description>A panel of regional business leaders discusses its prospects.</description>
-      <link>http://branch2.mckinsey.com/en/insights/africa/copy_of_can_africa_continue_to_grow</link>
-      <guid>http://branch2.mckinsey.com/en/insights/africa/copy_of_can_africa_continue_to_grow</guid>
+      <link>http://www.mckinsey.com/en/insights/africa/copy_of_can_africa_continue_to_grow</link>
+      <guid>http://www.mckinsey.com/en/insights/africa/copy_of_can_africa_continue_to_grow</guid>
       <pubDate>Thu, 18 Jul 2013 02:25:21 GMT</pubDate>
       <ID>5525cbd6-93af-45bf-8f79-d9e6918640b1</ID>
       <category>Africa</category>
@@ -151,8 +151,8 @@ The authors would like to thank Dmitry Krivin for his contribution to the develo
     <item>
       <title>A yen for global growth: The Japanese experience in cross-border M&amp;A</title>
       <description>Japanese companies have embarked on an increasing number of international acquisitions in recent years. Can they learn from past failures and create value from cross-border deals?</description>
-      <link>http://branch2.mckinsey.com/en/insights/asia-pacific/copy_of_a_yen_for_global_growth_the_japanese_experience_in_cross-border_m_and_38a</link>
-      <guid>http://branch2.mckinsey.com/en/insights/asia-pacific/copy_of_a_yen_for_global_growth_the_japanese_experience_in_cross-border_m_and_38a</guid>
+      <link>http://www.mckinsey.com/en/insights/asia-pacific/copy_of_a_yen_for_global_growth_the_japanese_experience_in_cross-border_m_and_38a</link>
+      <guid>http://www.mckinsey.com/en/insights/asia-pacific/copy_of_a_yen_for_global_growth_the_japanese_experience_in_cross-border_m_and_38a</guid>
       <pubDate>Thu, 18 Jul 2013 02:23:24 GMT</pubDate>
       <ID>ca7d036f-648f-4526-ae8b-1981c6780971</ID>
       <category>Asia-Pacific</category>
@@ -178,8 +178,8 @@ To infuse Japanese business culture into an acquired company, acquirers can laun
     <item>
       <title>A CEO’s guide to innovation in China in master</title>
       <description>Dynamic domestic players and focused multinationals are helping China churn out a growing number of innovative products and services. Intensifying competition lies ahead; here’s a road map for navigating it.</description>
-      <link>http://branch2.mckinsey.com/en/insights/asia-pacific/copy_of_a_ceos_guide_to_innovation_in_china</link>
-      <guid>http://branch2.mckinsey.com/en/insights/asia-pacific/copy_of_a_ceos_guide_to_innovation_in_china</guid>
+      <link>http://www.mckinsey.com/en/insights/asia-pacific/copy_of_a_ceos_guide_to_innovation_in_china</link>
+      <guid>http://www.mckinsey.com/en/insights/asia-pacific/copy_of_a_ceos_guide_to_innovation_in_china</guid>
       <pubDate>Thu, 18 Jul 2013 02:23:23 GMT</pubDate>
       <ID>2cbefcae-1fad-40a9-9438-1f536de7e419</ID>
       <category>Asia-Pacific</category>
@@ -245,8 +245,8 @@ To infuse Japanese business culture into an acquired company, acquirers can laun
     <item>
       <title>IP Title</title>
       <description>descriptino</description>
-      <link>http://branch2.mckinsey.com/en/insights/manufacturing/ip_article_testing</link>
-      <guid>http://branch2.mckinsey.com/en/insights/manufacturing/ip_article_testing</guid>
+      <link>http://www.mckinsey.com/en/insights/manufacturing/ip_article_testing</link>
+      <guid>http://www.mckinsey.com/en/insights/manufacturing/ip_article_testing</guid>
       <pubDate>Thu, 18 Jul 2013 02:17:49 GMT</pubDate>
       <ID>3de1a048-04b3-47d3-b4c2-9dee7b03522b</ID>
       <category>Manufacturing</category>
@@ -256,8 +256,8 @@ To infuse Japanese business culture into an acquired company, acquirers can laun
     <item>
       <title>The value of China's emerging middle class</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/china/copy_of_the_value_of_emerging_middle_class_in_china</link>
-      <guid>http://branch2.mckinsey.com/en/insights/china/copy_of_the_value_of_emerging_middle_class_in_china</guid>
+      <link>http://www.mckinsey.com/en/insights/china/copy_of_the_value_of_emerging_middle_class_in_china</link>
+      <guid>http://www.mckinsey.com/en/insights/china/copy_of_the_value_of_emerging_middle_class_in_china</guid>
       <pubDate>Tue, 16 Jul 2013 07:32:47 GMT</pubDate>
       <ID>64af21ee-797e-4384-bf62-980dda096f3b</ID>
       <category>China</category>
@@ -274,8 +274,8 @@ To infuse Japanese business culture into an acquired company, acquirers can laun
     <item>
       <title>Sample Article: An interview with a US Defense Department agency director</title>
       <description>David Fisher talks about his experiences after he went from the private sector to the biggest organization in the US government.</description>
-      <link>http://branch2.mckinsey.com/en/insights/business_technology/br_sample_code</link>
-      <guid>http://branch2.mckinsey.com/en/insights/business_technology/br_sample_code</guid>
+      <link>http://www.mckinsey.com/en/insights/business_technology/br_sample_code</link>
+      <guid>http://www.mckinsey.com/en/insights/business_technology/br_sample_code</guid>
       <pubDate>Mon, 13 May 2013 12:44:08 GMT</pubDate>
       <ID>e53697a7-7602-4b6a-b006-933d282a01fd</ID>
       <category>Business  Technology</category>
@@ -341,8 +341,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>Exploding the myths of offshoring</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/exploding_the_myths_of_offshoring</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/exploding_the_myths_of_offshoring</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/exploding_the_myths_of_offshoring</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/exploding_the_myths_of_offshoring</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:46 GMT</pubDate>
       <ID>ac79713e-1645-4593-bf10-82206a72ec81</ID>
       <category>Employment and growth</category>
@@ -357,8 +357,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>Exploding the myths about offshoring</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/exploding_the_myths_about_offshoring</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/exploding_the_myths_about_offshoring</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/exploding_the_myths_about_offshoring</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/exploding_the_myths_about_offshoring</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:46 GMT</pubDate>
       <ID>2029f949-1f6d-4aca-9168-752d3dd74379</ID>
       <category>Employment and growth</category>
@@ -370,8 +370,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>French employment 2020: Five priorities for action</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/french_employment_2020</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/french_employment_2020</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/french_employment_2020</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/french_employment_2020</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:46 GMT</pubDate>
       <ID>12b93c6f-ac06-4ae5-967e-57001fd73d69</ID>
       <category>Employment and growth</category>
@@ -394,8 +394,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>Five myths about how to create jobs</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/five_myths_about_how_to_create_jobs</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/five_myths_about_how_to_create_jobs</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/five_myths_about_how_to_create_jobs</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/five_myths_about_how_to_create_jobs</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:46 GMT</pubDate>
       <ID>ba85a3f4-5667-414c-9c90-da625eee7dbd</ID>
       <category>Employment and growth</category>
@@ -411,8 +411,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>Beyond cheap labor: Lessons for developing economies</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/beyond_cheap_labor</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/beyond_cheap_labor</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/beyond_cheap_labor</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/beyond_cheap_labor</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:46 GMT</pubDate>
       <ID>436b15e3-29c3-4170-a0b9-1400099350bb</ID>
       <category>Employment and growth</category>
@@ -431,8 +431,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>An economy that works: Job creation and America's future</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/an_economy_that_works_for_us_job_creation</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/an_economy_that_works_for_us_job_creation</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/an_economy_that_works_for_us_job_creation</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/an_economy_that_works_for_us_job_creation</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:46 GMT</pubDate>
       <ID>754b2dd8-1b8d-4d88-be08-d6c15ae5a8fc</ID>
       <category>Employment and growth</category>
@@ -455,8 +455,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>Employment performance</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/employment_performance</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/employment_performance</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/employment_performance</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/employment_performance</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:46 GMT</pubDate>
       <ID>63b5ed8b-2243-42d4-8c3e-1a601767a8c8</ID>
       <category>Employment and growth</category>
@@ -488,8 +488,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>Changing the fortunes of America's workforce: A human-capital challenge</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/changing_the_fortunes_of_us_workforce</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/changing_the_fortunes_of_us_workforce</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/changing_the_fortunes_of_us_workforce</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/changing_the_fortunes_of_us_workforce</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:46 GMT</pubDate>
       <ID>deaaea6c-ca5e-410d-bba8-815c1f6b961f</ID>
       <category>Employment and growth</category>
@@ -507,8 +507,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>Part III: The emerging global labor market: How supply and demand for offshore talent meet</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/the_emerging_global_labor_market_supply_and_demand</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/the_emerging_global_labor_market_supply_and_demand</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/the_emerging_global_labor_market_supply_and_demand</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/the_emerging_global_labor_market_supply_and_demand</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:45 GMT</pubDate>
       <ID>9b8b23ea-bfb1-4a1e-a27f-a51d8fd98adf</ID>
       <category>Employment and growth</category>
@@ -521,8 +521,8 @@ Through some pretty heavy engagements—some well received, others not—we were
     <item>
       <title>Part I: The emerging global labor market: The demand for offshore talent in services</title>
       <description />
-      <link>http://branch2.mckinsey.com/en/insights/employment_and_growth/the_emerging_global_labor_market_demand_for_offshore_talent</link>
-      <guid>http://branch2.mckinsey.com/en/insights/employment_and_growth/the_emerging_global_labor_market_demand_for_offshore_talent</guid>
+      <link>http://www.mckinsey.com/en/insights/employment_and_growth/the_emerging_global_labor_market_demand_for_offshore_talent</link>
+      <guid>http://www.mckinsey.com/en/insights/employment_and_growth/the_emerging_global_labor_market_demand_for_offshore_talent</guid>
       <pubDate>Mon, 29 Apr 2013 23:00:45 GMT</pubDate>
       <ID>f3a22a07-6f0b-47b5-9736-b1f24631c1c3</ID>
       <category>Employment and growth</category>
