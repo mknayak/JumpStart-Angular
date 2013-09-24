@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,7 +25,6 @@
 		<!-- <textInput/> -->
 		<!-- <skipHours/> -->
 		<!-- <skipDays/> -->
-
 		<fh:incremental>false</fh:incremental>
 		<atom:link rel="hub" href="http://pubsubhubbub.appspot.com"/>
 		<atom:link rel="self" href="http://67.214.133.121/test/rss_v32.xml"/>
