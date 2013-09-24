@@ -11,9 +11,6 @@
     <lastBuildDate>Tue, 24 Sep 2013 06:41:09 GMT</lastBuildDate>
     <category domain="Syndic8">Business</category>
     <ttl>5</ttl>
-    <rating>TO_BE_UPDATED</rating>
-    <textInput>TO_BE_UPDATED</textInput>
-    <cloud>TO_BE_UPDATED</cloud>
     <skipHours>
       <hour>1</hour>
       <hour>23</hour>
@@ -22,10 +19,6 @@
       <day>Saturday</day>
       <day>Sunday</day>
     </skipDays>
-    <image>
-      <url>http://branch2.mckinsey.com/~/media/McKinsey/dotcom/Global/logo_mckinsey-quarterly.ashx</url>
-      <title>McKinsey Insights &amp; Publications</title>
-    </image>
     <fh:incremental>false</fh:incremental>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" />
     <atom:link rel="self" href="http://67.214.133.121/test/rss_v32.xml" />
