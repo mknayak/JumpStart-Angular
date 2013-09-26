@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" 
 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
 xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-xmlns:media="http://search.yahoo.com/mrss" 
+xmlns:media="http://search.yahoo.com/mrss/" 
 xmlns:atom="http://www.w3.org/2005/Atom" 
 xmlns:georss="http://www.georss.org/georss" 
 xmlns:fh="http://purl.org/syndication/history/1.0">
@@ -21,7 +21,6 @@ xmlns:fh="http://purl.org/syndication/history/1.0">
 <image>
 <url>
 http://www.mckinsey.com/~/media/McKinsey/dotcom/Global/logo_mckinsey-quarterly.ashx
-	
 </url>
 <title>McKinsey Insights &amp; Publications</title>
 	
