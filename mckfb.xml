@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:fh="http://purl.org/syndication/history/1.0"><channel><title>McKinsey Insights &amp; Publications</title><link>http://www.mckinsey.com/insights</link><description>McKinsey Insights &amp; Publications RSS Feeds</description><language>en</language><managingEditor>test@mckinsey.com</managingEditor><webMaster>web@mckinsey.com</webMaster><pubDate>Mon, 23 Sep 2013 13:53:11 GMT</pubDate><lastBuildDate>Thu, 26 Sep 2013 10:09:54 GMT</lastBuildDate><category domain="Syndic8">Business</category><ttl>5</ttl><skipHours><hour>0</hour><hour>3</hour><hour>14</hour><hour>23</hour></skipHours><image><url>http://www.mckinsey.com/~/media/McKinsey/dotcom/Global/logo_mckinsey-quarterly.ashx</url><title>McKinsey Insights &amp; Publications</title></image><fh:incremental>false</fh:incremental><atom:link rel="hub" href="http://pubsubhubbub.appspot.com" /><atom:link rel="self" href="http://www.mckinsey.com/insights/flipboardrss" /><copyright>Copyright (c) McKinsey &amp; Company. All rights reserved. Reprinted by permission.</copyright><generator>Sitecore CMS: http://www.sitecore.net. Sitecore RSS module: McKinsey.RSS, Version=1.3.2.8583, Culture=neutral, PublicKeyToken=null</generator><item><title>A strategic role for China’s CIOs</title><description>CIOs have a key part to play as Chinese enterprises start looking to IT for business growth and global competitiveness.</description><link>http://www.mckinsey.com/insights/business_technology/testrss</link><guid>http://www.mckinsey.com/insights/business_technology/testrss</guid><pubDate>Wed, 25 Sep 2013 20:21:31 GMT</pubDate><ID>c9d05196-8ccc-4e19-9e23-3953a4085d81</ID><category>Business  Technology</category><dc:creator><![CDATA[Driek Desmet, Kevin Wei Wang, and Chenan Xia]]></dc:creator><content:encoded><![CDATA[<p>As Chinese organizations move from early-stage businesses to large global players, IT will need to play an increasingly important and strategic role. However, a 2012 McKinsey survey on business technology in China, undertaken in collaboration with Peking University, finds that Chinese enterprises continue to spend less than their global counterparts when it comes to IT investment. What’s more, many Chinese CEOs and business leaders view their IT function as good at helping to <em>run</em> the business but not strong at helping to <em>grow</em> it.</p>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+xmlns:media="http://search.yahoo.com/mrss" 
+xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:georss="http://www.georss.org/georss" 
+xmlns:fh="http://purl.org/syndication/history/1.0">
+<channel>
+<title>McKinsey Insights &amp; Publications</title>
+<link>http://www.mckinsey.com/insights</link>
+<description>McKinsey Insights &amp; Publications RSS Feeds</description>
+<language>en</language>
+<managingEditor>test@mckinsey.com</managingEditor>
+<webMaster>web@mckinsey.com</webMaster>
+<pubDate>Mon, 23 Sep 2013 13:53:11 GMT</pubDate>
+<lastBuildDate>Thu, 26 Sep 2013 10:09:54 GMT</lastBuildDate>
+<category domain="Syndic8">Business</category>
+<ttl>5</ttl>
+<skipHours><hour>0</hour><hour>3</hour><hour>14</hour><hour>23</hour></skipHours>
+<image>
+<url>
+http://www.mckinsey.com/~/media/McKinsey/dotcom/Global/logo_mckinsey-quarterly.ashx
+	
+</url>
+<title>McKinsey Insights &amp; Publications</title>
+	
+</image>
+<fh:incremental>false</fh:incremental>
+<atom:link rel="hub" href="http://pubsubhubbub.appspot.com" />
+<atom:link rel="self" href="http://www.mckinsey.com/insights/flipboardrss" />
+<copyright>Copyright (c) McKinsey &amp; Company. All rights reserved. Reprinted by permission.</copyright>
+<generator>Sitecore CMS: http://www.sitecore.net. Sitecore RSS module: McKinsey.RSS, Version=1.3.2.8583, Culture=neutral, PublicKeyToken=null</generator>
+<item>
+<title>A strategic role for China’s CIOs</title><description>CIOs have a key part to play as Chinese enterprises start looking to IT for business growth and global competitiveness.</description><link>http://www.mckinsey.com/insights/business_technology/testrss</link><guid>http://www.mckinsey.com/insights/business_technology/testrss</guid><pubDate>Wed, 25 Sep 2013 20:21:31 GMT</pubDate><ID>c9d05196-8ccc-4e19-9e23-3953a4085d81</ID><category>Business  Technology</category><dc:creator><![CDATA[Driek Desmet, Kevin Wei Wang, and Chenan Xia]]></dc:creator><content:encoded><![CDATA[<p>As Chinese organizations move from early-stage businesses to large global players, IT will need to play an increasingly important and strategic role. However, a 2012 McKinsey survey on business technology in China, undertaken in collaboration with Peking University, finds that Chinese enterprises continue to spend less than their global counterparts when it comes to IT investment. What’s more, many Chinese CEOs and business leaders view their IT function as good at helping to <em>run</em> the business but not strong at helping to <em>grow</em> it.</p>
 <p>Indeed, the results of the survey show the majority of corporate IT investment in China remains skewed toward improving operational efficiency. Comparatively little investment is directed to delivering customer-facing, top-line pursuits. Such pursuits could include digital-sales channels tapping big-data analytics to improve the customer experience (Exhibit 1) or leveraging social media for marketing of products and services.</p>
 
 <p>
