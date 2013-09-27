@@ -9,7 +9,7 @@
     <managingEditor>test@mckinsey.com</managingEditor>
     <webMaster>web@mckinsey.com</webMaster>
     <pubDate>Mon, 23 Sep 2013 13:53:11 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Sep 2013 08:25:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2013 08:54:06 GMT</lastBuildDate>
     <category domain="Syndic8">Business</category>
     <ttl>5</ttl>
     <skipHours>
@@ -26,7 +26,7 @@
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" />
     <atom:link rel="self" href="http://www.mckinsey.com/insights/flipboardrss" />
     <copyright>Copyright (c) McKinsey &amp; Company. All rights reserved. Reprinted by permission.</copyright>
-    <generator>Sitecore CMS: http://www.sitecore.net. Sitecore RSS module: McKinsey.RSS, Version=1.3.2.3477, Culture=neutral, PublicKeyToken=null</generator>
+    <generator>Sitecore CMS: http://www.sitecore.net. Sitecore RSS module: McKinsey.RSS, Version=1.3.2.6630, Culture=neutral, PublicKeyToken=null</generator>
     <item>
       <title>How to choose the right nonexecutive board leader</title>
       <description>It’s time to use a structured process for selecting the nonexecutive leader of the board. Defining the role is a good start.</description>
@@ -493,7 +493,7 @@ For more on diversifying sources of financing, see Richard Dobbs, Susan Lund, an
       <h3></h3>
       <p>MGI principal Michael Chui discusses the potential value in using social tools to enhance communications, knowledge sharing, and collaboration within and across enterprises.</p>
     </div>
-      <audio controls>
+      <audio controls="controls">
         <source src="http://www.mckinsey.com/assets/SampleMP3.mp3" />
 			  </audio>
     </figure></p>
@@ -779,7 +779,7 @@ The authors would like to thank Dmitry Krivin for his contribution to the develo
       <h3></h3>
       <p>A panel of regional business leaders discusses its prospects.</p>
     </div>
-    <video width="480" height="270" controls poster="http://brightcove.vo.llnwd.net/e1/pd/1971571337001/1971571337001_2553694144001_ChinaTech-VideoStill-1024x576.jpg?pubId=1971571337001">
+    <video width="480" height="270" controls="controls" poster="http://brightcove.vo.llnwd.net/e1/pd/1971571337001/1971571337001_2553694144001_ChinaTech-VideoStill-1024x576.jpg?pubId=1971571337001">
       <source src="http://brightcove.vo.llnwd.net/e1/uds/pd/1971571337001/1971571337001_2522840653001_Chinatech-full.mp4" />
 		</video>
     </figure>]]></content:encoded>
